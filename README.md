@@ -19,4 +19,4 @@ Pero con algunas modificaciones:
   *Clase general de la que heredan Coin y Wall, por metodos comunes.
   *Sonidos generados en un metodo, para mantener el orden.
   
-El codigo esta completamente comentado y puede que lo adapte con el tiempo para probar alguna idea sencilla.  
+El codigo esta completamente comentado y puede que lo adapte con el tiempo para probar alguna idea sencilla.    
